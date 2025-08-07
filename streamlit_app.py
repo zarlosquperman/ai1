@@ -57,4 +57,3 @@ st.image("https://www.streamlit.io/images/brand/streamlit-logo-primary-colormark
 # 7. 유튜브 링크 (썸네일 표시)
 st.write("유튜브 동영상 예제")
 st.video("https://www.youtube.com/watch?v=B2iAodr0fOo")
-
